@@ -106,7 +106,7 @@ footer {
         padding: 1rem;
     }
     .card {
-        width: min(100%,400px);
+        width: min(100%,325px);
     }
 }
 
@@ -123,14 +123,14 @@ footer {
 /* || LARGE */
 @media screen and (min-width:992px) {
     .card {
-        width: min(100%,500px);
+        width: min(100%,325px);
     }
 }
 
 /* || XL */
 @media screen and (min-width:1200px) {
     .card {
-        width: min(33% - 1rem,500px);
+        width: min(33% - 1rem,325px);
     }
 }
 
